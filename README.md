@@ -1,6 +1,8 @@
 # Growing database for countries
 
-## How to use it as an source
+This Python script merges multiple JSON files containing data for different countries into a single JSON file. It ensures that each country has only one object, handles duplicate attributes by appending a rising number to the attribute name, and writes the merged data to a temporary file.
+
+## Usage
 
 Fetch from https://lenamm12.github.io/country_database/country_data.json
 
@@ -20,9 +22,28 @@ For example like this:
         }
     }
 
+## Contributing
 
-## Current Workflow
+Contributions are welcome! Please feel free to open an issue or submit a pull request with any improvements or additional features.
 
-- Add data files to /filesForData
-- run merge.py with `python merge.py`
-- Copy new data from the generated temporary file to country_data.json
+## Requirements
+
+- Python 3.x
+- JSON files containing country data
+
+## Usage for contributing
+
+1. **Clone the Repository:**
+2. **Place JSON Files:**
+Place the JSON files containing country data in the `filesForData` folder.
+
+3. **Run the Script:**
+Run the `merge.py` script:
+python merge.py
+
+4. **View Merged Data:**
+The merged data will be written to a temporary file, and the path to the file will be printed to the console.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
