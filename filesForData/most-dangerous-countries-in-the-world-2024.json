@@ -1,0 +1,1136 @@
+[
+  {
+    "country": "India",
+    "MostPeaceful2023GPI": 2.314,
+    "MostPeaceful2022GPI": 2.578,
+    "MostPeaceful2021GPI": 2.553,
+    "gpiChange": -0.2639999999999998
+  },
+  {
+    "country": "China",
+    "MostPeaceful2023GPI": 2.009,
+    "MostPeaceful2022GPI": 2.01,
+    "MostPeaceful2021GPI": 2.114,
+    "gpiChange": -0.0009999999999998899
+  },
+  {
+    "country": "United States",
+    "MostPeaceful2023GPI": 2.448,
+    "MostPeaceful2022GPI": 2.44,
+    "MostPeaceful2021GPI": 2.337,
+    "gpiChange": 0.008000000000000007
+  },
+  {
+    "country": "Indonesia",
+    "MostPeaceful2023GPI": 1.829,
+    "MostPeaceful2022GPI": 1.8,
+    "MostPeaceful2021GPI": 1.783,
+    "gpiChange": 0.028999999999999915
+  },
+  {
+    "country": "Pakistan",
+    "MostPeaceful2023GPI": 2.745,
+    "MostPeaceful2022GPI": 2.789,
+    "MostPeaceful2021GPI": 2.868,
+    "gpiChange": -0.04400000000000004
+  },
+  {
+    "country": "Nigeria",
+    "MostPeaceful2023GPI": 2.713,
+    "MostPeaceful2022GPI": 2.725,
+    "MostPeaceful2021GPI": 2.712,
+    "gpiChange": -0.01200000000000001
+  },
+  {
+    "country": "Brazil",
+    "MostPeaceful2023GPI": 2.462,
+    "MostPeaceful2022GPI": 2.465,
+    "MostPeaceful2021GPI": 2.43,
+    "gpiChange": -0.0029999999999996696
+  },
+  {
+    "country": "Bangladesh",
+    "MostPeaceful2023GPI": 2.051,
+    "MostPeaceful2022GPI": 2.067,
+    "MostPeaceful2021GPI": 2.068,
+    "gpiChange": -0.016000000000000014
+  },
+  {
+    "country": "Russia",
+    "MostPeaceful2023GPI": 3.142,
+    "MostPeaceful2022GPI": 3.275,
+    "MostPeaceful2021GPI": 2.993,
+    "gpiChange": -0.133
+  },
+  {
+    "country": "Ethiopia",
+    "MostPeaceful2023GPI": 2.872,
+    "MostPeaceful2022GPI": 2.806,
+    "MostPeaceful2021GPI": 2.613,
+    "gpiChange": 0.06599999999999984
+  },
+  {
+    "country": "Mexico",
+    "MostPeaceful2023GPI": 2.599,
+    "MostPeaceful2022GPI": 2.612,
+    "MostPeaceful2021GPI": 2.62,
+    "gpiChange": -0.0129999999999999
+  },
+  {
+    "country": "Philippines",
+    "MostPeaceful2023GPI": 2.229,
+    "MostPeaceful2022GPI": 2.339,
+    "MostPeaceful2021GPI": 2.417,
+    "gpiChange": -0.10999999999999988
+  },
+  {
+    "country": "Egypt",
+    "MostPeaceful2023GPI": 2.267,
+    "MostPeaceful2022GPI": 2.342,
+    "MostPeaceful2021GPI": 2.397,
+    "gpiChange": -0.07500000000000018
+  },
+  {
+    "country": "DR Congo",
+    "MostPeaceful2023GPI": 3.214,
+    "MostPeaceful2022GPI": 3.166,
+    "MostPeaceful2021GPI": 3.196,
+    "gpiChange": 0.04800000000000004
+  },
+  {
+    "country": "Vietnam",
+    "MostPeaceful2023GPI": 1.745,
+    "MostPeaceful2022GPI": 1.786,
+    "MostPeaceful2021GPI": 1.835,
+    "gpiChange": -0.040999999999999925
+  },
+  {
+    "country": "Iran",
+    "MostPeaceful2023GPI": 2.8,
+    "MostPeaceful2022GPI": 2.687,
+    "MostPeaceful2021GPI": 2.637,
+    "gpiChange": 0.11299999999999999
+  },
+  {
+    "country": "Turkey",
+    "MostPeaceful2023GPI": 2.8,
+    "MostPeaceful2022GPI": 2.785,
+    "MostPeaceful2021GPI": 2.843,
+    "gpiChange": 0.01499999999999968
+  },
+  {
+    "country": "Germany",
+    "MostPeaceful2023GPI": 1.456,
+    "MostPeaceful2022GPI": 1.462,
+    "MostPeaceful2021GPI": 1.48,
+    "gpiChange": -0.006000000000000005
+  },
+  {
+    "country": "Thailand",
+    "MostPeaceful2023GPI": 2.061,
+    "MostPeaceful2022GPI": 2.098,
+    "MostPeaceful2021GPI": 2.205,
+    "gpiChange": -0.03699999999999992
+  },
+  {
+    "country": "Tanzania",
+    "MostPeaceful2023GPI": 2.058,
+    "MostPeaceful2022GPI": 2.001,
+    "MostPeaceful2021GPI": 1.892,
+    "gpiChange": 0.05699999999999994
+  },
+  {
+    "country": "United Kingdom",
+    "MostPeaceful2023GPI": 1.693,
+    "MostPeaceful2022GPI": 1.667,
+    "MostPeaceful2021GPI": 1.658,
+    "gpiChange": 0.026000000000000023
+  },
+  {
+    "country": "France",
+    "MostPeaceful2023GPI": 1.939,
+    "MostPeaceful2022GPI": 1.895,
+    "MostPeaceful2021GPI": 1.868,
+    "gpiChange": 0.04400000000000004
+  },
+  {
+    "country": "South Africa",
+    "MostPeaceful2023GPI": 2.405,
+    "MostPeaceful2022GPI": 2.283,
+    "MostPeaceful2021GPI": 2.344,
+    "gpiChange": 0.12199999999999989
+  },
+  {
+    "country": "Italy",
+    "MostPeaceful2023GPI": 1.662,
+    "MostPeaceful2022GPI": 1.643,
+    "MostPeaceful2021GPI": 1.652,
+    "gpiChange": 0.018999999999999906
+  },
+  {
+    "country": "Kenya",
+    "MostPeaceful2023GPI": 2.254,
+    "MostPeaceful2022GPI": 2.303,
+    "MostPeaceful2021GPI": 2.254,
+    "gpiChange": -0.04899999999999993
+  },
+  {
+    "country": "Myanmar",
+    "MostPeaceful2023GPI": 2.741,
+    "MostPeaceful2022GPI": 2.631,
+    "MostPeaceful2021GPI": 2.457,
+    "gpiChange": 0.11000000000000032
+  },
+  {
+    "country": "Colombia",
+    "MostPeaceful2023GPI": 2.693,
+    "MostPeaceful2022GPI": 2.729,
+    "MostPeaceful2021GPI": 2.694,
+    "gpiChange": -0.03600000000000003
+  },
+  {
+    "country": "South Korea",
+    "MostPeaceful2023GPI": 1.763,
+    "MostPeaceful2022GPI": 1.779,
+    "MostPeaceful2021GPI": 1.877,
+    "gpiChange": -0.016000000000000014
+  },
+  {
+    "country": "Uganda",
+    "MostPeaceful2023GPI": 2.3,
+    "MostPeaceful2022GPI": 2.309,
+    "MostPeaceful2021GPI": 2.219,
+    "gpiChange": -0.009000000000000341
+  },
+  {
+    "country": "Sudan",
+    "MostPeaceful2023GPI": 3.023,
+    "MostPeaceful2022GPI": 3.007,
+    "MostPeaceful2021GPI": 2.936,
+    "gpiChange": 0.016000000000000014
+  },
+  {
+    "country": "Spain",
+    "MostPeaceful2023GPI": 1.649,
+    "MostPeaceful2022GPI": 1.603,
+    "MostPeaceful2021GPI": 1.621,
+    "gpiChange": 0.04600000000000004
+  },
+  {
+    "country": "Iraq",
+    "MostPeaceful2023GPI": 3.006,
+    "MostPeaceful2022GPI": 3.157,
+    "MostPeaceful2021GPI": 3.257,
+    "gpiChange": -0.15100000000000025
+  },
+  {
+    "country": "Algeria",
+    "MostPeaceful2023GPI": 2.094,
+    "MostPeaceful2022GPI": 2.146,
+    "MostPeaceful2021GPI": 2.31,
+    "gpiChange": -0.052000000000000046
+  },
+  {
+    "country": "Argentina",
+    "MostPeaceful2023GPI": 1.837,
+    "MostPeaceful2022GPI": 1.911,
+    "MostPeaceful2021GPI": 1.945,
+    "gpiChange": -0.07400000000000007
+  },
+  {
+    "country": "Afghanistan",
+    "MostPeaceful2023GPI": 3.448,
+    "MostPeaceful2022GPI": 3.554,
+    "MostPeaceful2021GPI": 3.631,
+    "gpiChange": -0.10599999999999987
+  },
+  {
+    "country": "Poland",
+    "MostPeaceful2023GPI": 1.634,
+    "MostPeaceful2022GPI": 1.552,
+    "MostPeaceful2021GPI": 1.524,
+    "gpiChange": 0.08199999999999985
+  },
+  {
+    "country": "Canada",
+    "MostPeaceful2023GPI": 1.35,
+    "MostPeaceful2022GPI": 1.389,
+    "MostPeaceful2021GPI": 1.33,
+    "gpiChange": -0.038999999999999924
+  },
+  {
+    "country": "Morocco",
+    "MostPeaceful2023GPI": 2.02,
+    "MostPeaceful2022GPI": 1.969,
+    "MostPeaceful2021GPI": 2.015,
+    "gpiChange": 0.050999999999999934
+  },
+  {
+    "country": "Ukraine",
+    "MostPeaceful2023GPI": 3.043,
+    "MostPeaceful2022GPI": 2.971,
+    "MostPeaceful2021GPI": 2.66,
+    "gpiChange": 0.07200000000000006
+  },
+  {
+    "country": "Angola",
+    "MostPeaceful2023GPI": 2.02,
+    "MostPeaceful2022GPI": 1.982,
+    "MostPeaceful2021GPI": 2.017,
+    "gpiChange": 0.038000000000000034
+  },
+  {
+    "country": "Saudi Arabia",
+    "MostPeaceful2023GPI": 2.26,
+    "MostPeaceful2022GPI": 2.288,
+    "MostPeaceful2021GPI": 2.376,
+    "gpiChange": -0.028000000000000025
+  },
+  {
+    "country": "Uzbekistan",
+    "MostPeaceful2023GPI": 2.033,
+    "MostPeaceful2022GPI": 2.001,
+    "MostPeaceful2021GPI": 2.062,
+    "gpiChange": 0.03200000000000003
+  },
+  {
+    "country": "Yemen",
+    "MostPeaceful2023GPI": 3.35,
+    "MostPeaceful2022GPI": 3.394,
+    "MostPeaceful2021GPI": 3.407,
+    "gpiChange": -0.04400000000000004
+  },
+  {
+    "country": "Mozambique",
+    "MostPeaceful2023GPI": 2.259,
+    "MostPeaceful2022GPI": 2.316,
+    "MostPeaceful2021GPI": 2.123,
+    "gpiChange": -0.05699999999999994
+  },
+  {
+    "country": "Ghana",
+    "MostPeaceful2023GPI": 1.799,
+    "MostPeaceful2022GPI": 1.759,
+    "MostPeaceful2021GPI": 1.715,
+    "gpiChange": 0.040000000000000036
+  },
+  {
+    "country": "Peru",
+    "MostPeaceful2023GPI": 2.13,
+    "MostPeaceful2022GPI": 2.091,
+    "MostPeaceful2021GPI": 2.034,
+    "gpiChange": 0.0389999999999997
+  },
+  {
+    "country": "Malaysia",
+    "MostPeaceful2023GPI": 1.513,
+    "MostPeaceful2022GPI": 1.471,
+    "MostPeaceful2021GPI": 1.515,
+    "gpiChange": 0.041999999999999815
+  },
+  {
+    "country": "Nepal",
+    "MostPeaceful2023GPI": 2.006,
+    "MostPeaceful2022GPI": 1.947,
+    "MostPeaceful2021GPI": 2.033,
+    "gpiChange": 0.05899999999999972
+  },
+  {
+    "country": "Madagascar",
+    "MostPeaceful2023GPI": 1.846,
+    "MostPeaceful2022GPI": 1.995,
+    "MostPeaceful2021GPI": 1.963,
+    "gpiChange": -0.14900000000000002
+  },
+  {
+    "country": "Ivory Coast",
+    "MostPeaceful2023GPI": 2.053,
+    "MostPeaceful2022GPI": 2.144,
+    "MostPeaceful2021GPI": 2.123,
+    "gpiChange": -0.09100000000000019
+  },
+  {
+    "country": "Venezuela",
+    "MostPeaceful2023GPI": 2.693,
+    "MostPeaceful2022GPI": 2.798,
+    "MostPeaceful2021GPI": 2.934,
+    "gpiChange": -0.10499999999999998
+  },
+  {
+    "country": "Cameroon",
+    "MostPeaceful2023GPI": 2.66,
+    "MostPeaceful2022GPI": 2.709,
+    "MostPeaceful2021GPI": 2.7,
+    "gpiChange": -0.04899999999999993
+  },
+  {
+    "country": "Niger",
+    "MostPeaceful2023GPI": 2.625,
+    "MostPeaceful2022GPI": 2.655,
+    "MostPeaceful2021GPI": 2.589,
+    "gpiChange": -0.029999999999999805
+  },
+  {
+    "country": "Australia",
+    "MostPeaceful2023GPI": 1.525,
+    "MostPeaceful2022GPI": 1.565,
+    "MostPeaceful2021GPI": 1.47,
+    "gpiChange": -0.040000000000000036
+  },
+  {
+    "country": "North Korea",
+    "MostPeaceful2023GPI": 2.848,
+    "MostPeaceful2022GPI": 2.942,
+    "MostPeaceful2021GPI": 2.923,
+    "gpiChange": -0.0940000000000003
+  },
+  {
+    "country": "Syria",
+    "MostPeaceful2023GPI": 3.294,
+    "MostPeaceful2022GPI": 3.356,
+    "MostPeaceful2021GPI": 3.371,
+    "gpiChange": -0.06199999999999983
+  },
+  {
+    "country": "Mali",
+    "MostPeaceful2023GPI": 2.963,
+    "MostPeaceful2022GPI": 2.911,
+    "MostPeaceful2021GPI": 2.813,
+    "gpiChange": 0.052000000000000046
+  },
+  {
+    "country": "Taiwan",
+    "MostPeaceful2023GPI": 1.649,
+    "MostPeaceful2022GPI": 1.618,
+    "MostPeaceful2021GPI": 1.662,
+    "gpiChange": 0.030999999999999917
+  },
+  {
+    "country": "Burkina Faso",
+    "MostPeaceful2023GPI": 2.868,
+    "MostPeaceful2022GPI": 2.786,
+    "MostPeaceful2021GPI": 2.527,
+    "gpiChange": 0.08199999999999985
+  },
+  {
+    "country": "Sri Lanka",
+    "MostPeaceful2023GPI": 2.136,
+    "MostPeaceful2022GPI": 2.02,
+    "MostPeaceful2021GPI": 2.083,
+    "gpiChange": 0.1160000000000001
+  },
+  {
+    "country": "Malawi",
+    "MostPeaceful2023GPI": 1.97,
+    "MostPeaceful2022GPI": 1.895,
+    "MostPeaceful2021GPI": 1.909,
+    "gpiChange": 0.07499999999999996
+  },
+  {
+    "country": "Zambia",
+    "MostPeaceful2023GPI": 1.898,
+    "MostPeaceful2022GPI": 1.841,
+    "MostPeaceful2021GPI": 1.964,
+    "gpiChange": 0.05699999999999994
+  },
+  {
+    "country": "Kazakhstan",
+    "MostPeaceful2023GPI": 1.98,
+    "MostPeaceful2022GPI": 2.071,
+    "MostPeaceful2021GPI": 1.936,
+    "gpiChange": -0.09100000000000019
+  },
+  {
+    "country": "Chile",
+    "MostPeaceful2023GPI": 1.874,
+    "MostPeaceful2022GPI": 1.84,
+    "MostPeaceful2021GPI": 1.831,
+    "gpiChange": 0.03400000000000003
+  },
+  {
+    "country": "Romania",
+    "MostPeaceful2023GPI": 1.649,
+    "MostPeaceful2022GPI": 1.64,
+    "MostPeaceful2021GPI": 1.53,
+    "gpiChange": 0.009000000000000119
+  },
+  {
+    "country": "Chad",
+    "MostPeaceful2023GPI": 2.699,
+    "MostPeaceful2022GPI": 2.591,
+    "MostPeaceful2021GPI": 2.489,
+    "gpiChange": 0.10799999999999965
+  },
+  {
+    "country": "Somalia",
+    "MostPeaceful2023GPI": 3.036,
+    "MostPeaceful2022GPI": 3.125,
+    "MostPeaceful2021GPI": 3.211,
+    "gpiChange": -0.08899999999999997
+  },
+  {
+    "country": "Ecuador",
+    "MostPeaceful2023GPI": 2.095,
+    "MostPeaceful2022GPI": 1.988,
+    "MostPeaceful2021GPI": 2.044,
+    "gpiChange": 0.1070000000000002
+  },
+  {
+    "country": "Guatemala",
+    "MostPeaceful2023GPI": 2.13,
+    "MostPeaceful2022GPI": 2.139,
+    "MostPeaceful2021GPI": 2.195,
+    "gpiChange": -0.008999999999999897
+  },
+  {
+    "country": "Senegal",
+    "MostPeaceful2023GPI": 1.827,
+    "MostPeaceful2022GPI": 1.916,
+    "MostPeaceful2021GPI": 1.864,
+    "gpiChange": -0.08899999999999997
+  },
+  {
+    "country": "Netherlands",
+    "MostPeaceful2023GPI": 1.49,
+    "MostPeaceful2022GPI": 1.522,
+    "MostPeaceful2021GPI": 1.506,
+    "gpiChange": -0.03200000000000003
+  },
+  {
+    "country": "Cambodia",
+    "MostPeaceful2023GPI": 1.947,
+    "MostPeaceful2022GPI": 1.882,
+    "MostPeaceful2021GPI": 2.008,
+    "gpiChange": 0.06500000000000017
+  },
+  {
+    "country": "Zimbabwe",
+    "MostPeaceful2023GPI": 2.3,
+    "MostPeaceful2022GPI": 2.35,
+    "MostPeaceful2021GPI": 2.49,
+    "gpiChange": -0.050000000000000266
+  },
+  {
+    "country": "Guinea",
+    "MostPeaceful2023GPI": 2.359,
+    "MostPeaceful2022GPI": 2.332,
+    "MostPeaceful2021GPI": 2.069,
+    "gpiChange": 0.027000000000000135
+  },
+  {
+    "country": "Rwanda",
+    "MostPeaceful2023GPI": 2.051,
+    "MostPeaceful2022GPI": 1.945,
+    "MostPeaceful2021GPI": 2.028,
+    "gpiChange": 0.1060000000000001
+  },
+  {
+    "country": "Benin",
+    "MostPeaceful2023GPI": 2.177,
+    "MostPeaceful2022GPI": 2.125,
+    "MostPeaceful2021GPI": 2.093,
+    "gpiChange": 0.052000000000000046
+  },
+  {
+    "country": "Burundi",
+    "MostPeaceful2023GPI": 2.393,
+    "MostPeaceful2022GPI": 2.47,
+    "MostPeaceful2021GPI": 2.434,
+    "gpiChange": -0.0770000000000004
+  },
+  {
+    "country": "Bolivia",
+    "MostPeaceful2023GPI": 2.001,
+    "MostPeaceful2022GPI": 1.989,
+    "MostPeaceful2021GPI": 2.14,
+    "gpiChange": 0.011999999999999789
+  },
+  {
+    "country": "Tunisia",
+    "MostPeaceful2023GPI": 2.01,
+    "MostPeaceful2022GPI": 1.996,
+    "MostPeaceful2021GPI": 2.108,
+    "gpiChange": 0.01399999999999979
+  },
+  {
+    "country": "Haiti",
+    "MostPeaceful2023GPI": 2.395,
+    "MostPeaceful2022GPI": 2.254,
+    "MostPeaceful2021GPI": 2.151,
+    "gpiChange": 0.14100000000000001
+  },
+  {
+    "country": "Belgium",
+    "MostPeaceful2023GPI": 1.523,
+    "MostPeaceful2022GPI": 1.526,
+    "MostPeaceful2021GPI": 1.496,
+    "gpiChange": -0.0030000000000001137
+  },
+  {
+    "country": "Dominican Republic",
+    "MostPeaceful2023GPI": 2.019,
+    "MostPeaceful2022GPI": 1.99,
+    "MostPeaceful2021GPI": 2.024,
+    "gpiChange": 0.029000000000000137
+  },
+  {
+    "country": "Jordan",
+    "MostPeaceful2023GPI": 1.895,
+    "MostPeaceful2022GPI": 1.849,
+    "MostPeaceful2021GPI": 1.916,
+    "gpiChange": 0.04600000000000004
+  },
+  {
+    "country": "South Sudan",
+    "MostPeaceful2023GPI": 3.221,
+    "MostPeaceful2022GPI": 3.184,
+    "MostPeaceful2021GPI": 3.363,
+    "gpiChange": 0.03699999999999992
+  },
+  {
+    "country": "Cuba",
+    "MostPeaceful2023GPI": 2.103,
+    "MostPeaceful2022GPI": 2.083,
+    "MostPeaceful2021GPI": 2.042,
+    "gpiChange": 0.020000000000000018
+  },
+  {
+    "country": "Honduras",
+    "MostPeaceful2023GPI": 2.265,
+    "MostPeaceful2022GPI": 2.269,
+    "MostPeaceful2021GPI": 2.371,
+    "gpiChange": -0.0040000000000000036
+  },
+  {
+    "country": "Sweden",
+    "MostPeaceful2023GPI": 1.625,
+    "MostPeaceful2022GPI": 1.564,
+    "MostPeaceful2021GPI": 1.46,
+    "gpiChange": 0.06099999999999994
+  },
+  {
+    "country": "Papua New Guinea",
+    "MostPeaceful2023GPI": 2.095,
+    "MostPeaceful2022GPI": 2.046,
+    "MostPeaceful2021GPI": 2.149,
+    "gpiChange": 0.04900000000000038
+  },
+  {
+    "country": "Czech Republic",
+    "MostPeaceful2023GPI": 1.379,
+    "MostPeaceful2022GPI": 1.318,
+    "MostPeaceful2021GPI": 1.329,
+    "gpiChange": 0.06099999999999994
+  },
+  {
+    "country": "Azerbaijan",
+    "MostPeaceful2023GPI": 2.09,
+    "MostPeaceful2022GPI": 2.437,
+    "MostPeaceful2021GPI": 2.334,
+    "gpiChange": -0.347
+  },
+  {
+    "country": "Tajikistan",
+    "MostPeaceful2023GPI": 2.114,
+    "MostPeaceful2022GPI": 2.031,
+    "MostPeaceful2021GPI": 2.095,
+    "gpiChange": 0.08299999999999974
+  },
+  {
+    "country": "Greece",
+    "MostPeaceful2023GPI": 1.89,
+    "MostPeaceful2022GPI": 1.838,
+    "MostPeaceful2021GPI": 1.932,
+    "gpiChange": 0.051999999999999824
+  },
+  {
+    "country": "Portugal",
+    "MostPeaceful2023GPI": 1.333,
+    "MostPeaceful2022GPI": 1.301,
+    "MostPeaceful2021GPI": 1.267,
+    "gpiChange": 0.03200000000000003
+  },
+  {
+    "country": "Hungary",
+    "MostPeaceful2023GPI": 1.508,
+    "MostPeaceful2022GPI": 1.411,
+    "MostPeaceful2021GPI": 1.494,
+    "gpiChange": 0.09699999999999998
+  },
+  {
+    "country": "United Arab Emirates",
+    "MostPeaceful2023GPI": 1.979,
+    "MostPeaceful2022GPI": 1.865,
+    "MostPeaceful2021GPI": 1.848,
+    "gpiChange": 0.1140000000000001
+  },
+  {
+    "country": "Belarus",
+    "MostPeaceful2023GPI": 2.248,
+    "MostPeaceful2022GPI": 2.259,
+    "MostPeaceful2021GPI": 2.285,
+    "gpiChange": -0.010999999999999677
+  },
+  {
+    "country": "Israel",
+    "MostPeaceful2023GPI": 2.706,
+    "MostPeaceful2022GPI": 2.576,
+    "MostPeaceful2021GPI": 2.669,
+    "gpiChange": 0.1299999999999999
+  },
+  {
+    "country": "Togo",
+    "MostPeaceful2023GPI": 2.13,
+    "MostPeaceful2022GPI": 2.094,
+    "MostPeaceful2021GPI": 2.239,
+    "gpiChange": 0.03600000000000003
+  },
+  {
+    "country": "Sierra Leone",
+    "MostPeaceful2023GPI": 1.792,
+    "MostPeaceful2022GPI": 1.803,
+    "MostPeaceful2021GPI": 1.813,
+    "gpiChange": -0.010999999999999899
+  },
+  {
+    "country": "Austria",
+    "MostPeaceful2023GPI": 1.316,
+    "MostPeaceful2022GPI": 1.3,
+    "MostPeaceful2021GPI": 1.317,
+    "gpiChange": 0.016000000000000014
+  },
+  {
+    "country": "Switzerland",
+    "MostPeaceful2023GPI": 1.339,
+    "MostPeaceful2022GPI": 1.357,
+    "MostPeaceful2021GPI": 1.323,
+    "gpiChange": -0.018000000000000016
+  },
+  {
+    "country": "Laos",
+    "MostPeaceful2023GPI": 1.779,
+    "MostPeaceful2022GPI": 1.809,
+    "MostPeaceful2021GPI": 1.809,
+    "gpiChange": -0.030000000000000027
+  },
+  {
+    "country": "Nicaragua",
+    "MostPeaceful2023GPI": 2.294,
+    "MostPeaceful2022GPI": 2.334,
+    "MostPeaceful2021GPI": 2.445,
+    "gpiChange": -0.040000000000000036
+  },
+  {
+    "country": "Serbia",
+    "MostPeaceful2023GPI": 1.921,
+    "MostPeaceful2022GPI": 1.832,
+    "MostPeaceful2021GPI": 1.797,
+    "gpiChange": 0.08899999999999997
+  },
+  {
+    "country": "Libya",
+    "MostPeaceful2023GPI": 2.605,
+    "MostPeaceful2022GPI": 2.93,
+    "MostPeaceful2021GPI": 3.166,
+    "gpiChange": -0.3250000000000002
+  },
+  {
+    "country": "Paraguay",
+    "MostPeaceful2023GPI": 1.942,
+    "MostPeaceful2022GPI": 1.976,
+    "MostPeaceful2021GPI": 1.997,
+    "gpiChange": -0.03400000000000003
+  },
+  {
+    "country": "Kyrgyzstan",
+    "MostPeaceful2023GPI": 2.11,
+    "MostPeaceful2022GPI": 2.028,
+    "MostPeaceful2021GPI": 1.998,
+    "gpiChange": 0.08199999999999985
+  },
+  {
+    "country": "Bulgaria",
+    "MostPeaceful2023GPI": 1.643,
+    "MostPeaceful2022GPI": 1.541,
+    "MostPeaceful2021GPI": 1.577,
+    "gpiChange": 0.10200000000000009
+  },
+  {
+    "country": "Turkmenistan",
+    "MostPeaceful2023GPI": 2.107,
+    "MostPeaceful2022GPI": 2.116,
+    "MostPeaceful2021GPI": 2.154,
+    "gpiChange": -0.008999999999999897
+  },
+  {
+    "country": "El Salvador",
+    "MostPeaceful2023GPI": 2.279,
+    "MostPeaceful2022GPI": 2.231,
+    "MostPeaceful2021GPI": 2.184,
+    "gpiChange": 0.04800000000000004
+  },
+  {
+    "country": "Republic of the Congo",
+    "MostPeaceful2023GPI": 2.21,
+    "MostPeaceful2022GPI": 2.184,
+    "MostPeaceful2021GPI": 2.291,
+    "gpiChange": 0.0259999999999998
+  },
+  {
+    "country": "Singapore",
+    "MostPeaceful2023GPI": 1.332,
+    "MostPeaceful2022GPI": 1.326,
+    "MostPeaceful2021GPI": 1.347,
+    "gpiChange": 0.006000000000000005
+  },
+  {
+    "country": "Denmark",
+    "MostPeaceful2023GPI": 1.31,
+    "MostPeaceful2022GPI": 1.296,
+    "MostPeaceful2021GPI": 1.256,
+    "gpiChange": 0.014000000000000012
+  },
+  {
+    "country": "Central African Republic",
+    "MostPeaceful2023GPI": 2.934,
+    "MostPeaceful2022GPI": 3.021,
+    "MostPeaceful2021GPI": 3.131,
+    "gpiChange": -0.08699999999999974
+  },
+  {
+    "country": "Slovakia",
+    "MostPeaceful2023GPI": 1.578,
+    "MostPeaceful2022GPI": 1.499,
+    "MostPeaceful2021GPI": 1.557,
+    "gpiChange": 0.07899999999999996
+  },
+  {
+    "country": "Finland",
+    "MostPeaceful2023GPI": 1.399,
+    "MostPeaceful2022GPI": 1.439,
+    "MostPeaceful2021GPI": 1.402,
+    "gpiChange": -0.040000000000000036
+  },
+  {
+    "country": "Liberia",
+    "MostPeaceful2023GPI": 1.946,
+    "MostPeaceful2022GPI": 1.973,
+    "MostPeaceful2021GPI": 1.998,
+    "gpiChange": -0.027000000000000135
+  },
+  {
+    "country": "Norway",
+    "MostPeaceful2023GPI": 1.55,
+    "MostPeaceful2022GPI": 1.465,
+    "MostPeaceful2021GPI": 1.438,
+    "gpiChange": 0.08499999999999996
+  },
+  {
+    "country": "Palestine",
+    "MostPeaceful2023GPI": 2.538,
+    "MostPeaceful2022GPI": 2.552,
+    "MostPeaceful2021GPI": 2.61,
+    "gpiChange": -0.014000000000000234
+  },
+  {
+    "country": "New Zealand",
+    "MostPeaceful2023GPI": 1.313,
+    "MostPeaceful2022GPI": 1.269,
+    "MostPeaceful2021GPI": 1.253,
+    "gpiChange": 0.04400000000000004
+  },
+  {
+    "country": "Costa Rica",
+    "MostPeaceful2023GPI": 1.731,
+    "MostPeaceful2022GPI": 1.732,
+    "MostPeaceful2021GPI": 1.735,
+    "gpiChange": -0.0009999999999998899
+  },
+  {
+    "country": "Lebanon",
+    "MostPeaceful2023GPI": 2.581,
+    "MostPeaceful2022GPI": 2.615,
+    "MostPeaceful2021GPI": 2.797,
+    "gpiChange": -0.03400000000000025
+  },
+  {
+    "country": "Ireland",
+    "MostPeaceful2023GPI": 1.312,
+    "MostPeaceful2022GPI": 1.288,
+    "MostPeaceful2021GPI": 1.326,
+    "gpiChange": 0.02400000000000002
+  },
+  {
+    "country": "Mauritania",
+    "MostPeaceful2023GPI": 2.228,
+    "MostPeaceful2022GPI": 2.193,
+    "MostPeaceful2021GPI": 2.29,
+    "gpiChange": 0.03500000000000014
+  },
+  {
+    "country": "Oman",
+    "MostPeaceful2023GPI": 1.794,
+    "MostPeaceful2022GPI": 1.889,
+    "MostPeaceful2021GPI": 1.982,
+    "gpiChange": -0.09499999999999997
+  },
+  {
+    "country": "Panama",
+    "MostPeaceful2023GPI": 1.942,
+    "MostPeaceful2022GPI": 1.876,
+    "MostPeaceful2021GPI": 1.919,
+    "gpiChange": 0.06600000000000006
+  },
+  {
+    "country": "Kuwait",
+    "MostPeaceful2023GPI": 1.669,
+    "MostPeaceful2022GPI": 1.739,
+    "MostPeaceful2021GPI": 1.688,
+    "gpiChange": -0.07000000000000006
+  },
+  {
+    "country": "Croatia",
+    "MostPeaceful2023GPI": 1.45,
+    "MostPeaceful2022GPI": 1.44,
+    "MostPeaceful2021GPI": 1.48,
+    "gpiChange": 0.010000000000000009
+  },
+  {
+    "country": "Eritrea",
+    "MostPeaceful2023GPI": 2.505,
+    "MostPeaceful2022GPI": 2.494,
+    "MostPeaceful2021GPI": 2.555,
+    "gpiChange": 0.010999999999999677
+  },
+  {
+    "country": "Georgia",
+    "MostPeaceful2023GPI": 2.071,
+    "MostPeaceful2022GPI": 2.065,
+    "MostPeaceful2021GPI": 2.054,
+    "gpiChange": 0.006000000000000227
+  },
+  {
+    "country": "Mongolia",
+    "MostPeaceful2023GPI": 1.765,
+    "MostPeaceful2022GPI": 1.775,
+    "MostPeaceful2021GPI": 1.783,
+    "gpiChange": -0.010000000000000009
+  },
+  {
+    "country": "Uruguay",
+    "MostPeaceful2023GPI": 1.798,
+    "MostPeaceful2022GPI": 1.795,
+    "MostPeaceful2021GPI": 1.817,
+    "gpiChange": 0.0030000000000001137
+  },
+  {
+    "country": "Moldova",
+    "MostPeaceful2023GPI": 1.873,
+    "MostPeaceful2022GPI": 1.882,
+    "MostPeaceful2021GPI": 1.909,
+    "gpiChange": -0.008999999999999897
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "MostPeaceful2023GPI": 1.892,
+    "MostPeaceful2022GPI": 1.85,
+    "MostPeaceful2021GPI": 1.97,
+    "gpiChange": 0.041999999999999815
+  },
+  {
+    "country": "Gambia",
+    "MostPeaceful2023GPI": 1.888,
+    "MostPeaceful2022GPI": 1.792,
+    "MostPeaceful2021GPI": 1.853,
+    "gpiChange": 0.09599999999999986
+  },
+  {
+    "country": "Albania",
+    "MostPeaceful2023GPI": 1.745,
+    "MostPeaceful2022GPI": 1.761,
+    "MostPeaceful2021GPI": 1.824,
+    "gpiChange": -0.015999999999999792
+  },
+  {
+    "country": "Jamaica",
+    "MostPeaceful2023GPI": 1.986,
+    "MostPeaceful2022GPI": 1.99,
+    "MostPeaceful2021GPI": 1.992,
+    "gpiChange": -0.0040000000000000036
+  },
+  {
+    "country": "Armenia",
+    "MostPeaceful2023GPI": 1.929,
+    "MostPeaceful2022GPI": 1.992,
+    "MostPeaceful2021GPI": 2.075,
+    "gpiChange": -0.06299999999999994
+  },
+  {
+    "country": "Qatar",
+    "MostPeaceful2023GPI": 1.524,
+    "MostPeaceful2022GPI": 1.533,
+    "MostPeaceful2021GPI": 1.605,
+    "gpiChange": -0.008999999999999897
+  },
+  {
+    "country": "Botswana",
+    "MostPeaceful2023GPI": 1.762,
+    "MostPeaceful2022GPI": 1.801,
+    "MostPeaceful2021GPI": 1.753,
+    "gpiChange": -0.038999999999999924
+  },
+  {
+    "country": "Lithuania",
+    "MostPeaceful2023GPI": 1.671,
+    "MostPeaceful2022GPI": 1.724,
+    "MostPeaceful2021GPI": 1.689,
+    "gpiChange": -0.052999999999999936
+  },
+  {
+    "country": "Namibia",
+    "MostPeaceful2023GPI": 1.859,
+    "MostPeaceful2022GPI": 1.908,
+    "MostPeaceful2021GPI": 1.927,
+    "gpiChange": -0.04899999999999993
+  },
+  {
+    "country": "Gabon",
+    "MostPeaceful2023GPI": 2.068,
+    "MostPeaceful2022GPI": 1.973,
+    "MostPeaceful2021GPI": 2.074,
+    "gpiChange": 0.09499999999999997
+  },
+  {
+    "country": "Lesotho",
+    "MostPeaceful2023GPI": 2.191,
+    "MostPeaceful2022GPI": 2.089,
+    "MostPeaceful2021GPI": 2.202,
+    "gpiChange": 0.10199999999999987
+  },
+  {
+    "country": "Guinea-Bissau",
+    "MostPeaceful2023GPI": 2.045,
+    "MostPeaceful2022GPI": 2.156,
+    "MostPeaceful2021GPI": 2.113,
+    "gpiChange": -0.11100000000000021
+  },
+  {
+    "country": "Slovenia",
+    "MostPeaceful2023GPI": 1.334,
+    "MostPeaceful2022GPI": 1.316,
+    "MostPeaceful2021GPI": 1.315,
+    "gpiChange": 0.018000000000000016
+  },
+  {
+    "country": "North Macedonia",
+    "MostPeaceful2023GPI": 1.713,
+    "MostPeaceful2022GPI": 1.704,
+    "MostPeaceful2021GPI": 1.744,
+    "gpiChange": 0.009000000000000119
+  },
+  {
+    "country": "Latvia",
+    "MostPeaceful2023GPI": 1.582,
+    "MostPeaceful2022GPI": 1.673,
+    "MostPeaceful2021GPI": 1.686,
+    "gpiChange": -0.09099999999999997
+  },
+  {
+    "country": "Equatorial Guinea",
+    "MostPeaceful2023GPI": 2.013,
+    "MostPeaceful2022GPI": 1.863,
+    "MostPeaceful2021GPI": 1.915,
+    "gpiChange": 0.1499999999999999
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "MostPeaceful2023GPI": 1.946,
+    "MostPeaceful2022GPI": 2.005,
+    "MostPeaceful2021GPI": 2.029,
+    "gpiChange": -0.05899999999999994
+  },
+  {
+    "country": "Bahrain",
+    "MostPeaceful2023GPI": 2.145,
+    "MostPeaceful2022GPI": 2.085,
+    "MostPeaceful2021GPI": 2.121,
+    "gpiChange": 0.06000000000000005
+  },
+  {
+    "country": "Timor-Leste",
+    "MostPeaceful2023GPI": 1.796,
+    "MostPeaceful2022GPI": 1.839,
+    "MostPeaceful2021GPI": 1.873,
+    "gpiChange": -0.04299999999999993
+  },
+  {
+    "country": "Estonia",
+    "MostPeaceful2023GPI": 1.563,
+    "MostPeaceful2022GPI": 1.662,
+    "MostPeaceful2021GPI": 1.612,
+    "gpiChange": -0.09899999999999998
+  },
+  {
+    "country": "Mauritius",
+    "MostPeaceful2023GPI": 1.546,
+    "MostPeaceful2022GPI": 1.57,
+    "MostPeaceful2021GPI": 1.592,
+    "gpiChange": -0.02400000000000002
+  },
+  {
+    "country": "Cyprus",
+    "MostPeaceful2023GPI": 1.904,
+    "MostPeaceful2022GPI": 1.903,
+    "MostPeaceful2021GPI": 1.912,
+    "gpiChange": 0.0009999999999998899
+  },
+  {
+    "country": "Eswatini",
+    "MostPeaceful2023GPI": 2.168,
+    "MostPeaceful2022GPI": 2.033,
+    "MostPeaceful2021GPI": 1.955,
+    "gpiChange": 0.13500000000000023
+  },
+  {
+    "country": "Djibouti",
+    "MostPeaceful2023GPI": 2.196,
+    "MostPeaceful2022GPI": 2.213,
+    "MostPeaceful2021GPI": 2.146,
+    "gpiChange": -0.016999999999999904
+  },
+  {
+    "country": "Guyana",
+    "MostPeaceful2023GPI": 2.134,
+    "MostPeaceful2022GPI": 2.14,
+    "MostPeaceful2021GPI": 2.114,
+    "gpiChange": -0.006000000000000227
+  },
+  {
+    "country": "Bhutan",
+    "MostPeaceful2023GPI": 1.496,
+    "MostPeaceful2022GPI": 1.481,
+    "MostPeaceful2021GPI": 1.51,
+    "gpiChange": 0.014999999999999902
+  },
+  {
+    "country": "Montenegro",
+    "MostPeaceful2023GPI": 1.772,
+    "MostPeaceful2022GPI": 1.801,
+    "MostPeaceful2021GPI": 1.847,
+    "gpiChange": -0.028999999999999915
+  },
+  {
+    "country": "Iceland",
+    "MostPeaceful2023GPI": 1.124,
+    "MostPeaceful2022GPI": 1.107,
+    "MostPeaceful2021GPI": 1.1,
+    "gpiChange": 0.017000000000000126
+  },
+  {
+    "country": "Total",
+    "MostPeaceful2023GPI": 2.0760869565217384,
+    "MostPeaceful2022GPI": 2.074900621118013,
+    "MostPeaceful2021GPI": 2.0853664596273296,
+    "gpiChange": 0.0011863354037266974
+  }
+]
